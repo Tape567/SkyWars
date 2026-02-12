@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v2.0.63/---simulator","cdnUrl":"https://cdn.makecode.com","version":"0.0.0","target":"arcade","targetVersion":"2.0.63"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v2.0.63/---simulator","cdnUrl":"https://cdn.makecode.com","version":"1.0.0","target":"arcade","targetVersion":"2.0.63","repo":"tape567/skywars"}
 // total=3561693 new=18.94% cached=76.64% other=4.42%
 (function (ectx) {
 'use strict';
@@ -766,7 +766,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P37376(s) {
+function _main___P39059(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -1437,13 +1437,13 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-_main___P37376.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"pxt_modules/Timers/main.ts","functionName":"<main>","argumentNames":[]}
-_main___P37376.continuations = [  ]
+_main___P39059.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"pxt_modules/Timers/main.ts","functionName":"<main>","argumentNames":[]}
+_main___P39059.continuations = [  ]
 
-function _main___P37376_mk(s) {
+function _main___P39059_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P37376, depth: s.depth + 1,
+        parent: s, fn: _main___P39059, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   tmp_1: undefined,
@@ -104099,5 +104099,5 @@ const sprites_BaseSpriteSayRenderer__C2273_VT = mkVTable({
 
 const breakpoints = setupDebugger(1, ["transparency16___4988","Text___4966","Starteverything___4986","dart2___4981","player2___4984","player4___4982","player1___4985","player3___4983","dart4___4978","dart1___4976","dart3___4973","bogey___4972","Stangplay___4977","Maintext___4980","myMenu___4979","myTextSprite___4975","myTextSprite2___4974"])
 
-return _main___P37376
+return _main___P39059
 })
