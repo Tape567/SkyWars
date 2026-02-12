@@ -3,24 +3,25 @@
 
 > Open this page at [https://tape567.github.io/skywars/](https://tape567.github.io/skywars/)
 
-## Use as Extension
+## SkyWars
+SkyWars is a fun, small multiplayer game I made on MakeCode. Shoot bogeys and get big, all while being the last one standing!  
 
-This repository can be added as an **extension** in MakeCode.
+## Game Directions
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tape567/skywars** and import
+- Move around freely with the joystick.
+- Shoot Bogey Ships
+- If the ships touch you, you lose a life. You have 3 lives :)
+- Be the last one standing to win! If the last one standing dies, they win. That's how it actually works.
+- You will get big with more points. Show 'em who's boss!
 
-## Edit this project
+## Bugs? Errors? Comments? Something Else?
+You can always reach you to me through the issues and pull request tab. I would love to hear your opinions and reviews! 
 
-To edit this repository in MakeCode.
+## Credits
+Credits to some MakeCode forum friends, AbstractDesginer and InvalidProject, for their songs!
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/tape567/skywars** and click import
+And that's all! This is actually my first ever extension/github game! Have fun, and stay alive!!!
 
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+>Tape567
+>RoboticVacuumer225
+>RoboVacDev
